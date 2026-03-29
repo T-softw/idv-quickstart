@@ -476,4 +476,4 @@ original Identity Verification template.
 5. If you don't have webhooks working, the `/server/fake_webhook` endpoint on
    the server will pretend as though it has received a webhook for this user by
    looking up the most recent Identity Verification session ID that we have
-   stored for this user and then running steps 3-4.
+   stored for this user and then running steps 3-4. 
