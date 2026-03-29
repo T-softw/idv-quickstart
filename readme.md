@@ -35,7 +35,7 @@ git clone https://github.com/plaid/idv-quickstart
 cd idv-quickstart
 ```
 
-Alternatively, if you use ssh:
+Alternatively, if you useh ssh:
 
 ```
 git clone git@github.com:plaid/idv-quickstart.git
